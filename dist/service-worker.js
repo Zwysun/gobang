@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.05689ffd06345ee4c0ac864fc7656afe.js"
+  "/precache-manifest.834875045bc57dbb7248b09539a7cc69.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gobang-v2"});
